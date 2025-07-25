@@ -13,8 +13,8 @@ Optionally view interest vs. principal breakdown (if implemented in your version
 
 
 🙌 Acknowledgements
-Streamlit Docs
-Matplotlib
+Streamlit Docs                                                   
+Matplotlib                                                        
 Mortgage EMI formula from standard financial mathematics
 Pip 
 Streamlit
